@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshydv1
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning C 
-- 📫 How to reach me :insta @harsh.ydv1
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me yadavharsh12h@gmail.com
 
 <!---
 harshydv1/harshydv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
