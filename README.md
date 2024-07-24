@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshydv1
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in app development 
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me yadavharsh12h@gmail.com
 
